@@ -43,12 +43,12 @@ st.markdown("""
         text-align: center;
         font-size: 1.6rem;
         font-weight: bold;
-        color: #e94560;
+        color: #ffffff;
         padding: 1rem;
-        background: linear-gradient(90deg, rgba(233, 69, 96, 0.1), rgba(233, 69, 96, 0.2), rgba(233, 69, 96, 0.1));
+        background: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         margin-bottom: 0.5rem;
-        text-shadow: 0 0 20px rgba(233, 69, 96, 0.5);
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
     }
     
     .subtitle {
